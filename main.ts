@@ -7,7 +7,7 @@ input.onButtonPressed(Button.A, function () {
 })
 input.onButtonPressed(Button.B, function () {
     if (bassrange == 1) {
-        bassrange = 4
+        bassrange = 2
     } else {
         bassrange = 1
     }
