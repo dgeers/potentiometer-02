@@ -9,7 +9,7 @@ input.onButtonPressed(Button.B, function () {
     if (bassrange == 1) {
         bassrange = 4
     } else {
-        playing = 1
+        bassrange = 1
     }
 })
 let currentnote = 0
